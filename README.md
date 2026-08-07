@@ -11,8 +11,12 @@
 > Teaching video AI to watch, remember, reason — and respond on time.
 
 <div align="center">
+  <a href="https://github.com/sotayang?tab=repositories">
+    <img src="https://img.shields.io/github/stars/sotayang?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github&label=TOTAL%20STARS&color=F8D866" alt="Total stars across owned and collaborated repositories, including ViQ" />
+  </a>
+  <br/><br/>
   <a href="https://github.com/sotayang">
-    <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=sotayang&show_icons=true&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=8B949E&icon_color=F8D866&rank_icon=github" alt="Zhenyu's GitHub statistics" />
+    <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=sotayang&show_icons=true&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=8B949E&icon_color=F8D866&rank_icon=github&hide=stars" alt="Zhenyu's GitHub activity statistics" />
   </a>
   <a href="https://github.com/sotayang">
     <img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sotayang&layout=compact&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=8B949E&langs_count=6" alt="Zhenyu's most-used languages" />
@@ -23,6 +27,10 @@
 
 <details>
 <summary><b>More...</b></summary>
+
+### ⭐ Selected research repositories
+
+[![ViQ Stars](https://img.shields.io/github/stars/yuxumin/ViQ?style=flat-square&logo=github&label=ViQ)](https://github.com/yuxumin/ViQ/stargazers)
 
 ## 📡 Current transmission
 
