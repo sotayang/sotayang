@@ -7,16 +7,16 @@
 </div>
 
 <a href="https://github.com/sotayang">
-  <img align="right" height="165" src="https://github-readme-stats-fast.vercel.app/api?username=sotayang&show_icons=true&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=8B949E&icon_color=F8D866&rank_icon=github&hide=stars" alt="Zhenyu's GitHub activity statistics" />
+  <img align="right" height="165" src="https://github-readme-stats-fast.vercel.app/api?username=sotayang&show_icons=true&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=8B949E&icon_color=F8D866&hide_rank=true&hide=stars" alt="Zhenyu's GitHub activity statistics" />
 </a>
 
 - 🎓 Fourth-year Ph.D. student (2022–2027) at **CASIA**
 - 🔭 Building **streaming/online video understanding** systems and multimodal agents
 - 🤝 Always happy to discuss research and collaboration
 
-> Teaching video AI to watch, remember, reason — and respond on time.
-
 <br clear="right"/>
+
+> Teaching video AI to watch, remember, reason — and respond on time.
 
 <details>
 <summary><b>More...</b></summary>
