@@ -1,8 +1,6 @@
 <div align="center">
 
-# Hi, I'm Zhenyu Yang (杨振宇) 👋
-
-[![Total Stars](https://img.shields.io/github/stars/sotayang?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github&label=TOTAL%20STARS&color=F8D866)](https://github.com/sotayang?tab=repositories)
+# Hi, I'm Zhenyu Yang 👋
 
 </div>
 
@@ -10,13 +8,20 @@
   <img align="right" height="165" src="https://github-readme-stats-fast.vercel.app/api?username=sotayang&show_icons=true&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=8B949E&icon_color=F8D866&hide_rank=true&hide=stars" alt="Zhenyu's GitHub activity statistics" />
 </a>
 
+<div align="center">
+  
+[![Total Stars](https://img.shields.io/github/stars/sotayang?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github&label=TOTAL%20STARS&color=F8D866)](https://github.com/sotayang?tab=repositories)
+
+</div>
+
 - 🎓 Fourth-year Ph.D. student (2022–2027) at **CASIA**
-- 🔭 Building **streaming/online video understanding** systems and multimodal agents
+- 🔭 Building **online video understanding** systems and multimodal agents
 - 🤝 Always happy to discuss research and collaboration
 
-<br clear="right"/>
 
 > Teaching video AI to watch, remember, reason — and respond on time.
+<br clear="right"/>
+
 
 <details>
 <summary><b>More...</b></summary>
