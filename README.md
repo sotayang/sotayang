@@ -26,10 +26,6 @@
 <details>
 <summary><b>More...</b></summary>
 
-### ⭐ Selected research repositories
-
-[![ViQ Stars](https://img.shields.io/github/stars/yuxumin/ViQ?style=flat-square&logo=github&label=ViQ)](https://github.com/yuxumin/ViQ/stargazers)
-
 ## 📡 Current transmission
 
 ```text
